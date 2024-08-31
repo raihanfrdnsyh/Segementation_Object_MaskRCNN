@@ -1,4 +1,3 @@
-# Mask-RCNN-on-Custom-Dataset-2classes-
 
 1- Download mrcnn folder from https://github.com/matterport/Mask_RCNN
 
@@ -14,5 +13,4 @@
 
 7- Use VGGAnnotator tool for Annotations.
 
-## To understand the functionality, Check this video:  https://youtu.be/t1MrzuAUdoE
 
