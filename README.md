@@ -3,7 +3,7 @@
 
 2- Download coco weights : https://github.com/matterport/Mask_RCNN/releases/tag/v1.0
 
-3. Install Requirement.txt
+3- Install Requirement.txt
 
 4- Create dataset folder. Under dataset folder -> Create 2 folders "train" and "val".
 
